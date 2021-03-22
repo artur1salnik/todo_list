@@ -1,0 +1,17 @@
+.todo-item button {
+    width: 40px;
+    margin: 5px;
+}
+
+.todo-item-label {
+    margin-left: 0.1rem;
+}
+
+.done .todo-item-label {
+    text-decoration: line-through;
+}
+
+.important .todo-item-label {
+    color: rgb(78, 78, 255);
+    font-weight: bold;
+}

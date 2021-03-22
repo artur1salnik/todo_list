@@ -1,0 +1,16 @@
+.todo-app {
+    margin: 2rem auto 0 auto;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: rgb(230, 230, 230);
+}
+
+.search-filter {
+    margin: 1rem 0;
+}
+
+.emptyList {
+    text-align: center;
+    font-size: 1.25rem;
+}

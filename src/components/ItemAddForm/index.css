@@ -1,0 +1,11 @@
+.item-add-form {
+    margin-top: 15px;
+}
+
+.item-add-form input {
+    margin-right: 5px;
+}
+
+.add-todo {
+    width: 150px;
+}
